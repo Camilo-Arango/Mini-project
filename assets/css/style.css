@@ -1,0 +1,28 @@
+* {
+    background-color: wheat;
+    font-family:'Times New Roman', Times, serif;
+    color: darkgray;
+}
+
+.centered-text  {
+    text-align: center;
+    display: block;
+}
+
+.right-align {
+    text-align: right;
+    display: block;
+}
+
+#id {
+
+}
+
+figure {
+    border: 5px burlywood;
+}
+
+Header {
+    display: block;
+    background-color: yellow;
+}
